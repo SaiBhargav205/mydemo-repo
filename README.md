@@ -5,7 +5,5 @@ adding some text to my new file before commit.
 
 
 changing the file from my local machine
-
-
 Hello
 Hello1
